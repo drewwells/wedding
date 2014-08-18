@@ -43,6 +43,7 @@ Session.vim
 
 
 /core/client/assets/css
+/core/client/tpl
 !/core/client/assets/css/ember-hacks.css
 /core/client/assets/fonts
 /core/server/data/export/exported*
